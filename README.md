@@ -7,11 +7,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100px" height="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="100px" height="100px">
 
-<style>
-  img{
-  align-items: center;
-  }
-</style>
 
 
 
